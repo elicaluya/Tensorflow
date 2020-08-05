@@ -1,2 +1,2 @@
-# tensorflow
+# Tensorflow
 Git repo to practice using Tensorflow and Machine Learning algorithms
